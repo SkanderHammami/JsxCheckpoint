@@ -1,0 +1,9 @@
+.titleRed {
+  color : red;
+  display : flex;
+  justify-content: center;
+}
+.App {
+  display: flex ;
+  justify-content: center;
+}
